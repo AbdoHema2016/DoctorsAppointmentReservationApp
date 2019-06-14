@@ -1,0 +1,252 @@
+
+/* Class = "UILabel"; text = "Second Day"; ObjectID = "0Vl-8e-D9N"; */
+"0Vl-8e-D9N.text" = "Second Day";
+
+/* Class = "UITextField"; placeholder = "Username or E-mail"; ObjectID = "0iC-Yr-4x0"; */
+"0iC-Yr-4x0.placeholder" = "الاسم او البريد الالكتروني";
+
+/* Class = "UILabel"; text = "Actions:"; ObjectID = "22j-Ic-Inp"; */
+"22j-Ic-Inp.text" = "خطوات:";
+
+/* Class = "UILabel"; text = "Seventh Day"; ObjectID = "2hg-Vt-cOq"; */
+"2hg-Vt-cOq.text" = "Seventh Day";
+
+/* Class = "UIButton"; normalTitle = "Night"; ObjectID = "3Px-KF-JhV"; */
+"3Px-KF-JhV.normalTitle" = "مساء";
+
+/* Class = "UIButton"; normalTitle = "Day"; ObjectID = "4Kc-O1-59H"; */
+"4Kc-O1-59H.normalTitle" = "نهار";
+
+/* Class = "UILabel"; text = "E-mail Address"; ObjectID = "4ss-8N-gbE"; */
+"4ss-8N-gbE.text" = "البريد الالكتروني";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "57k-cw-nnL"; */
+"57k-cw-nnL.title" = "الصفحه الشخصيه";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "6iR-kf-W5w"; */
+"6iR-kf-W5w.text" = "التاريخ";
+
+/* Class = "UITextField"; placeholder = "state"; ObjectID = "6pf-X4-Jj8"; */
+"6pf-X4-Jj8.placeholder" = "المحافظه";
+
+/* Class = "UILabel"; text = "Diagnosis:"; ObjectID = "7Sc-QZ-PyN"; */
+"7Sc-QZ-PyN.text" = "التشخيص:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "80q-o2-gC1"; */
+"80q-o2-gC1.text" = "العنوان";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "9rO-b6-yTm"; */
+"9rO-b6-yTm.text" = "اعادة كلمة السر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AKW-s5-wyn"; */
+"AKW-s5-wyn.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Aba-Jm-dsV"; */
+"Aba-Jm-dsV.normalTitle" = "تسجيل جديد";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "DMd-la-4Wp"; */
+"DMd-la-4Wp.title" = "رجوع";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "F45-n3-r3E"; */
+"F45-n3-r3E.normalTitle" = "تسجيل جديد";
+
+/* Class = "UIButton"; normalTitle = "Night"; ObjectID = "F4Y-Te-Sv0"; */
+"F4Y-Te-Sv0.normalTitle" = "مساء";
+
+/* Class = "UINavigationItem"; title = "Reserve"; ObjectID = "FnN-Eb-h3n"; */
+"FnN-Eb-h3n.title" = "حجز";
+
+/* Class = "UIButton"; normalTitle = "Day"; ObjectID = "GGF-5i-EhH"; */
+"GGF-5i-EhH.normalTitle" = "نهار";
+
+/* Class = "UILabel"; text = "No internet connection"; ObjectID = "GGn-SV-d54"; */
+"GGn-SV-d54.text" = "لا يوجد اتصال بالانترنت";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Gdf-9o-97X"; */
+"Gdf-9o-97X.placeholder" = "البريد الالكتروني";
+
+/* Class = "UIButton"; normalTitle = "Day"; ObjectID = "GtY-Fo-JdD"; */
+"GtY-Fo-JdD.normalTitle" = "نهار";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account ? Signup"; ObjectID = "Hf1-on-poq"; */
+"Hf1-on-poq.normalTitle" = "ليس لديك حساب؟تسجيل";
+
+/* Class = "UINavigationItem"; title = "Dr.Michael Maged"; ObjectID = "HhF-NT-hOx"; */
+"HhF-NT-hOx.title" = "Dr.Michael Maged";
+
+/* Class = "UIButton"; normalTitle = "Night"; ObjectID = "HlA-Qh-MQl"; */
+"HlA-Qh-MQl.normalTitle" = "مساء";
+
+/* Class = "UILabel"; text = "No internet connection"; ObjectID = "Iro-1O-bgP"; */
+"Iro-1O-bgP.text" = "لا يوجد اتصال بالانترنت";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "Jxh-KS-TBK"; */
+"Jxh-KS-TBK.title" = "بحث";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KTv-vM-qiG"; */
+"KTv-vM-qiG.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "phone No."; ObjectID = "KoE-5E-c9V"; */
+"KoE-5E-c9V.placeholder" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Name Missing"; ObjectID = "L0M-JL-CRK"; */
+"L0M-JL-CRK.text" = "الاسم غير موجود";
+
+/* Class = "UILabel"; text = "No internet connection"; ObjectID = "LgT-ln-MBR"; */
+"LgT-ln-MBR.text" = "لا يوجد اتصال بالانترنت";
+
+/* Class = "UILabel"; text = "Choose the Apointment"; ObjectID = "MPi-5o-Wy4"; */
+"MPi-5o-Wy4.text" = "اختر ميعاد الحجز";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Mzg-Nq-DOO"; */
+"Mzg-Nq-DOO.placeholder" = "البريد الالكتروني";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "NLs-sP-UrL"; */
+"NLs-sP-UrL.normalTitle" = "تغيير اللغه";
+
+/* Class = "UILabel"; text = "Third Day"; ObjectID = "Ocj-eq-p3j"; */
+"Ocj-eq-p3j.text" = "Third Day";
+
+/* Class = "UILabel"; text = "Medications:"; ObjectID = "SJu-LX-muK"; */
+"SJu-LX-muK.text" = "ادويه:";
+
+/* Class = "UIButton"; normalTitle = "Night"; ObjectID = "SZ5-2i-JXV"; */
+"SZ5-2i-JXV.normalTitle" = "مساء";
+
+/* Class = "UILabel"; text = "Visit"; ObjectID = "T9G-z9-Qys"; */
+"T9G-z9-Qys.text" = "زياره";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Tio-nE-AiR"; */
+"Tio-nE-AiR.normalTitle" = "تسجيل دخول";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "TjQ-Gc-DiE"; */
+"TjQ-Gc-DiE.normalTitle" = "الخروج";
+
+/* Class = "UILabel"; text = "First Day"; ObjectID = "UEi-L0-FeE"; */
+"UEi-L0-FeE.text" = "First Day";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "UK7-vz-Lm0"; */
+"UK7-vz-Lm0.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wq8-QJ-9MC"; */
+"Wq8-QJ-9MC.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "job title"; ObjectID = "XMB-b6-c5D"; */
+"XMB-b6-c5D.placeholder" = "الوظيفه";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "ZQO-ii-IBg"; */
+"ZQO-ii-IBg.normalTitle" = "التسجيل";
+
+/* Class = "UILabel"; text = "Fourth Day"; ObjectID = "Zcn-0V-MKh"; */
+"Zcn-0V-MKh.text" = "Fourth Day";
+
+/* Class = "UIButton"; normalTitle = "Day"; ObjectID = "ZlR-pl-N5J"; */
+"ZlR-pl-N5J.normalTitle" = "نهار";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "bB5-Ye-EUB"; */
+"bB5-Ye-EUB.text" = "العمر";
+
+/* Class = "UIButton"; normalTitle = "Night"; ObjectID = "bOK-l1-eMY"; */
+"bOK-l1-eMY.normalTitle" = "مساء";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "bqN-a5-La6"; */
+"bqN-a5-La6.title" = "التاريخ";
+
+/* Class = "UILabel"; text = "No internet connection"; ObjectID = "c3f-om-gfb"; */
+"c3f-om-gfb.text" = "لا يوجد اتصال بالانترنت";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "cTM-6G-or4"; */
+"cTM-6G-or4.normalTitle" = "تجديد كلمة السر";
+
+/* Class = "UILabel"; text = "No internet connection"; ObjectID = "cij-OT-ozd"; */
+"cij-OT-ozd.text" = "لا يوجد اتصال بالانترنت";
+
+/* Class = "UILabel"; text = "Sixth Day"; ObjectID = "eEc-fH-SkC"; */
+"eEc-fH-SkC.text" = "Sixth Day";
+
+/* Class = "UITextField"; placeholder = "confirm email"; ObjectID = "eIY-OA-Yxh"; */
+"eIY-OA-Yxh.placeholder" = "اعد كتابة البريد الالكتروني";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "fYJ-wS-03h"; */
+"fYJ-wS-03h.text" = "التاريخ";
+
+/* Class = "UIButton"; normalTitle = "Day"; ObjectID = "flz-Yc-Yrb"; */
+"flz-Yc-Yrb.normalTitle" = "نهار";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g0S-9B-0aZ"; */
+"g0S-9B-0aZ.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Terms & Conditions"; ObjectID = "gCe-Ny-UGx"; */
+"gCe-Ny-UGx.title" = "الشروط والاحكام";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "gDl-65-jdF"; */
+"gDl-65-jdF.placeholder" = "كلمة السر";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "ghp-pE-zr1"; */
+"ghp-pE-zr1.text" = "تسجيل جديد";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "h46-JN-6YC"; */
+"h46-JN-6YC.title" = "رجوع";
+
+/* Class = "UIButton"; normalTitle = "Login With FACEBOOK"; ObjectID = "iTS-nf-2oq"; */
+"iTS-nf-2oq.normalTitle" = "التسجيل بالفيس بوك";
+
+/* Class = "UILabel"; text = "Doctor's notes:"; ObjectID = "jUS-vF-1ds"; */
+"jUS-vF-1ds.text" = "ملاحظات الطبيب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kq3-Vu-Te0"; */
+"kq3-Vu-Te0.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "address"; ObjectID = "lKB-3O-c4S"; */
+"lKB-3O-c4S.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "Fifth Day"; ObjectID = "ogB-Il-ZKv"; */
+"ogB-Il-ZKv.text" = "Fifth Day";
+
+/* Class = "UIButton"; normalTitle = "Night"; ObjectID = "p5d-l6-fx2"; */
+"p5d-l6-fx2.normalTitle" = "مساء";
+
+/* Class = "UINavigationItem"; title = "Before & After"; ObjectID = "p6H-Cw-S1e"; */
+"p6H-Cw-S1e.title" = "قبل وبعد";
+
+/* Class = "UIButton"; normalTitle = "Night"; ObjectID = "p8V-Ic-mCH"; */
+"p8V-Ic-mCH.normalTitle" = "مساء";
+
+/* Class = "UITextView"; text = "\nThis End-User License Agreement (\"EULA\") is a legal agreement between you and Dr. Michael Maged APP\n\nThis EULA agreement governs your acquisition and use of our Dr. Michael Maged APP software (\"Software\") directly from Dr. Michael Maged APP or indirectly through a Dr. Michael Maged APP authorized reseller or distributor (a \"Reseller\").\n\nPlease read this EULA agreement carefully before completing the installation process and using the Dr. Michael Maged APP software. It provides a license to use the Dr. Michael Maged APP software and contains warranty information and liability disclaimers.\n\nIf you register for a free trial of the Dr. Michael Maged APP software, this EULA agreement will also govern that trial. By clicking \"accept\" or installing and/or using the Dr. Michael Maged APP software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.\n\nIf you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.\n\nThis EULA agreement shall apply only to the Software supplied by Dr. Michael Maged APP herewith regardless of whether other software is referred to or described herein. The terms also apply to any Dr. Michael Maged APP updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.\n\nLicense Grant\n\nDr. Michael Maged APP hereby grants you a personal, non-transferable, non-exclusive licence to use the Dr. Michael Maged APP software on your devices in accordance with the terms of this EULA agreement.\n\nYou are permitted to load the Dr. Michael Maged APP software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Dr. Michael Maged APP software.\n\nYou are not permitted to:\n\n\n- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things\n- Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose\n- Allow any third party to use the Software on behalf of or for the benefit of any third party\n- Use the Software in any way which breaches any applicable local, national or international law\n- use the Software for any purpose that Dr. Michael Maged APP considers is a breach of this EULA agreement\n\n\nIntellectual Property and Ownership\n\nDr. Michael Maged APP shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of Dr. Michael Maged APP.\n\nDr. Michael Maged APP reserves the right to grant licences to use the Software to third parties.\n\nTermination\n\nThis EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to Dr. Michael Maged APP.\n\nThis EULA was created by eulatemplate.com for Dr. Michael Maged APP\n\nIt will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.\n\nDisputes\nYou will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or Dr. Michael Maged APP exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such claims. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.\nIf anyone brings a claim against us related to your actions, content or information on Dr. Michael Maged APP, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim. Although we provide rules for user conduct, we do not control or direct users' actions on Dr. Michael Maged APP and are not responsible for the content or information users transmit or share on Dr. Michael Maged APP. We are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content or information you may encounter on Dr. Michael Maged APP. We are not responsible for the conduct, whether online or offline, of any user of Dr. Michael Maged APP.\nWE TRY TO KEEP Dr. Michael Maged APP UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING Dr. Michael Maged APP AS IS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT Dr. Michael Maged APP WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT Dr. Michael Maged APP WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS. Dr. Michael Maged APP IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR. WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR Dr. Michael Maged APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR Dr. Michael Maged APP WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, Dr. Michael Maged APP's LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.\n\nGoverning Law\n\nThis EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of Egypt.\n \n"; ObjectID = "pQz-hj-NfR"; */
+"pQz-hj-NfR.text" = "\nThis End-User License Agreement (\"EULA\") is a legal agreement between you and Dr. Michael Maged APP\n\nThis EULA agreement governs your acquisition and use of our Dr. Michael Maged APP software (\"Software\") directly from Dr. Michael Maged APP or indirectly through a Dr. Michael Maged APP authorized reseller or distributor (a \"Reseller\").\n\nPlease read this EULA agreement carefully before completing the installation process and using the Dr. Michael Maged APP software. It provides a license to use the Dr. Michael Maged APP software and contains warranty information and liability disclaimers.\n\nIf you register for a free trial of the Dr. Michael Maged APP software, this EULA agreement will also govern that trial. By clicking \"accept\" or installing and/or using the Dr. Michael Maged APP software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.\n\nIf you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.\n\nThis EULA agreement shall apply only to the Software supplied by Dr. Michael Maged APP herewith regardless of whether other software is referred to or described herein. The terms also apply to any Dr. Michael Maged APP updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.\n\nLicense Grant\n\nDr. Michael Maged APP hereby grants you a personal, non-transferable, non-exclusive licence to use the Dr. Michael Maged APP software on your devices in accordance with the terms of this EULA agreement.\n\nYou are permitted to load the Dr. Michael Maged APP software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Dr. Michael Maged APP software.\n\nYou are not permitted to:\n\n\n- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things\n- Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose\n- Allow any third party to use the Software on behalf of or for the benefit of any third party\n- Use the Software in any way which breaches any applicable local, national or international law\n- use the Software for any purpose that Dr. Michael Maged APP considers is a breach of this EULA agreement\n\n\nIntellectual Property and Ownership\n\nDr. Michael Maged APP shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of Dr. Michael Maged APP.\n\nDr. Michael Maged APP reserves the right to grant licences to use the Software to third parties.\n\nTermination\n\nThis EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to Dr. Michael Maged APP.\n\nThis EULA was created by eulatemplate.com for Dr. Michael Maged APP\n\nIt will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.\n\nDisputes\nYou will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or Dr. Michael Maged APP exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such claims. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.\nIf anyone brings a claim against us related to your actions, content or information on Dr. Michael Maged APP, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim. Although we provide rules for user conduct, we do not control or direct users' actions on Dr. Michael Maged APP and are not responsible for the content or information users transmit or share on Dr. Michael Maged APP. We are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content or information you may encounter on Dr. Michael Maged APP. We are not responsible for the conduct, whether online or offline, of any user of Dr. Michael Maged APP.\nWE TRY TO KEEP Dr. Michael Maged APP UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING Dr. Michael Maged APP AS IS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT Dr. Michael Maged APP WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT Dr. Michael Maged APP WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS. Dr. Michael Maged APP IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR. WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR Dr. Michael Maged APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR Dr. Michael Maged APP WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, Dr. Michael Maged APP's LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.\n\nGoverning Law\n\nThis EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of Egypt.\n \n";
+
+/* Class = "UIButton"; normalTitle = "Day"; ObjectID = "q8J-n1-h8O"; */
+"q8J-n1-h8O.normalTitle" = "نهار";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "rbi-vz-ndh"; */
+"rbi-vz-ndh.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sL0-X7-QJL"; */
+"sL0-X7-QJL.normalTitle" = "الغاء";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "ser-lp-UgN"; */
+"ser-lp-UgN.normalTitle" = "تجديد كلمة السر";
+
+/* Class = "UIButton"; normalTitle = "By signingin You agree to our terms and conditions"; ObjectID = "u1u-NJ-9Xl"; */
+"u1u-NJ-9Xl.normalTitle" = "بتسجيلك الدخول انت توافق علي الشروط والاحكام";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "v9m-m0-s0b"; */
+"v9m-m0-s0b.placeholder" = "كلمة السر";
+
+/* Class = "UIButton"; normalTitle = "Day"; ObjectID = "wRq-l4-Iv5"; */
+"wRq-l4-Iv5.normalTitle" = "نهار";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "yHr-LF-TVW"; */
+"yHr-LF-TVW.normalTitle" = "تجديد كلمة السر";
+
+/* Class = "UITextField"; placeholder = "full name"; ObjectID = "yTL-BJ-NBK"; */
+"yTL-BJ-NBK.placeholder" = "الاسم بالكامل";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "yYE-WD-J5g"; */
+"yYE-WD-J5g.text" = "تفاصيل";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "yoY-lm-Y1e"; */
+"yoY-lm-Y1e.placeholder" = "العمر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zcI-d3-1bG"; */
+"zcI-d3-1bG.text" = "Label";
